@@ -21,5 +21,5 @@ people on others.
 8.Motor                 100rpm<br>
 9.Wheel(4)<br>
 10.Battery                12V<br>
-![block diagram](https://github.com/siddas27/Voice-Controlled-Wheel-Chair/bd.png) 
+![block diagram](https://github.com/siddas27/Voice-Controlled-Wheel-Chair/blob/master/bd.png?raw=true) 
 
