@@ -1,7 +1,7 @@
 # Voice-Controlled-Wheel-Chair
 The project "Voice Controlled Wheelchair" is designed to control a wheelchair by
 
-the voice of user.The purpose of the project is to faciliate the movement of the
+the voice of user.The purpose of the project is to facilitate the movement of the
 
 people who are disabled or handicapped or elderly people who are unable to
 
@@ -21,5 +21,5 @@ people on others.
 8.Motor                 100rpm<br>
 9.Wheel(4)<br>
 10.Battery                12V<br>
-![Image](a.png) 
+![block diagram](https://github.com/siddas27/Voice-Controlled-Wheel-Chair/bd.png) 
 
